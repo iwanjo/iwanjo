@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Ian
 
-<!--
-**iwanjo/iwanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+ <img align="right" alt="Nairobi" src= https://images.unsplash.com/photo-1543245883-b631737145f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80/>
 
 - 🔭 I’m currently working on hi
 - 🌱 I’m currently learning ...
@@ -13,5 +11,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Ian's github stats](https://github-readme-stats.vercel.app/api?username=iwanjo&show_icons=true&hide_border=true)
