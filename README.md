@@ -1,3 +1,5 @@
+ <img align="right" height = "250px" alt="Nairobi" src= "https://images.unsplash.com/photo-1543245883-b631737145f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"/>
+
 ### Hi there 👋, I'm Ian
 
 **My name is Ian Wanjohi. I'm a third year CS Major at the [African Leadership University](https://www.alueducation.com/) in Rwanda.**
@@ -22,7 +24,7 @@ My Tech Stack:
 
 
 
- <img align="right" height = "250px" alt="Nairobi" src= "https://images.unsplash.com/photo-1543245883-b631737145f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"/>
+
 
 
 - 🌱 I’m currently learning the MERN stack, mobile development with Flutter, UI design with React and front-end web development with HTML, CSS, JS and Bootstrap
