@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm Ian
 
+**My name is Ian Wanjohi. I'm a third year CS Major at the [African Leadership University](https://www.alueducation.com/) in Rwanda.
 
- <img align="right" alt="Nairobi" src= "https://images.unsplash.com/photo-1543245883-b631737145f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"/>
+
+
+ <img align="right" height = "300px" alt="Nairobi" src= "https://images.unsplash.com/photo-1543245883-b631737145f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"/>
 
 - 🔭 I’m currently working on hi
 - 🌱 I’m currently learning ...
