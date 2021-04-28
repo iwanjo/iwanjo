@@ -4,7 +4,7 @@
 
 **My name is Ian Wanjohi. I'm a third year CS Major at the [African Leadership University](https://www.alueducation.com/) in Rwanda.**
 
-**I am a full stack web and mobile developer  with two years of experience in creating dynamic and user-friendly applications. I strive to be a developer who can readily assess and communicate how an application should look, feel, and manipulate data while also understanding the technical limitations of such implementations. I live in the beautiful city of Nairobi in Kenya.**
+**I am a software engineer and UX/UI Designer  with two years of experience in creating dynamic and user-friendly applications. I strive to be a developer who can readily assess and communicate how an application should look, feel, and manipulate data while also understanding the technical limitations of such implementations. I live in the beautiful city of Nairobi in Kenya.**
 
 **You can visit my [Development Portfolio Here](https://ian-portfolio.vercel.app/)**
 
@@ -12,13 +12,12 @@
 My Tech Stack:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt = "HTML"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt = "CSS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt = "Bootstrap"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt = "Django"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt = "Flutter"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt = "Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt = "Java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt = "Flutter"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt = "JavaScript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt = "React"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt = "PHP"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt = "Node.js"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt = "MySQL"></code>
 
@@ -27,9 +26,8 @@ My Tech Stack:
 
 
 
-
-- 🌱 I’m currently learning the MERN stack, mobile development with Flutter, UI design with React and front-end web development with HTML, CSS, JS and Bootstrap
-- 💬 Ask me about UI and UX Design, scenebuilder and JavaFX, front-end development, responsive design, or any general life question 😄
+- 🌱 I’m currently learning mobile development with Flutter, Design Thinking Principles, User Interface Design - Figma and Cloud Platform Development.
+- 💬 Ask me about UX and UI Design, software development, ethics, accessible design, or any general life question 😄
 - 📫 Feel free to email via: ianwanjohi3@gmail.com
 - ⚡ Fun fact: I love Japanese culture, I am an avid anime watcher and manga reader, and would love to visit the country one day!
 
