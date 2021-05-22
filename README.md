@@ -2,7 +2,7 @@
 
 **My name is Ian Wanjohi. I'm a fourth year CS Major at the [African Leadership University](https://www.alueducation.com/) in Rwanda.**
 
-**I am a software developer specializing in integrating UX/UI Design to create sustainable solutions that positively impact people’s lives. 
+**I am a software developer specializing in integrating UX/UI Design to create sustainable solutions that positively impact people’s lives.**
 
 **You can visit my [Development Portfolio Here](https://ian-portfolio.vercel.app/)**
 
