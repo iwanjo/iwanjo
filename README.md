@@ -1,10 +1,8 @@
- <img align="right" height = "250px" alt="Nairobi" src= "https://images.unsplash.com/photo-1543245883-b631737145f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"/>
-
 ### Hi there 👋, I'm Ian
 
-**My name is Ian Wanjohi. I'm a third year CS Major at the [African Leadership University](https://www.alueducation.com/) in Rwanda.**
+**My name is Ian Wanjohi. I'm a fourth year CS Major at the [African Leadership University](https://www.alueducation.com/) in Rwanda.**
 
-**I am a software engineer and UX/UI Designer  with two years of experience in creating dynamic and user-friendly applications. I strive to be a developer who can readily assess and communicate how an application should look, feel, and manipulate data while also understanding the technical limitations of such implementations. I live in the beautiful city of Nairobi in Kenya.**
+**I am a software developer specializing in integrating UX/UI Design to create sustainable solutions that positively impact people’s lives. 
 
 **You can visit my [Development Portfolio Here](https://ian-portfolio.vercel.app/)**
 
@@ -23,11 +21,8 @@ My Tech Stack:
 
 
 
-
-
-
 - 🌱 I’m currently learning mobile development with Flutter, Design Thinking Principles, User Interface Design - Figma and Cloud Platform Development.
-- 💬 Ask me about UX and UI Design, software development, ethics, accessible design, or any general life question 😄
+- 💬 Ask me about UX and UI Design, software development, accessible design, or any general life question 😄
 - 📫 Feel free to email via: ianwanjohi3@gmail.com
 - ⚡ Fun fact: I love Japanese culture, I am an avid anime watcher and manga reader, and would love to visit the country one day!
 
