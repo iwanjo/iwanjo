@@ -4,7 +4,7 @@
 
 **I am a software developer specializing in integrating UX/UI Design to create sustainable solutions that positively impact people’s lives.**
 
-**You can visit my [Development Portfolio Here](https://ian-portfolio.vercel.app/)**
+**You can visit my [Website Here](https://ianwanjohi.netlify.app/)**
 
 
 My Tech Stack:
@@ -22,16 +22,10 @@ My Tech Stack:
 
 - 🌱 I’m currently learning mobile development with Flutter, Design Thinking Principles, User Interface Design - Figma and Cloud Platform Development.
 - 💬 Ask me about UX and UI Design, software development, accessible design, or any general life question 😄
-- 📫 Feel free to email via: ianwanjohi3@gmail.com
 - ⚡ Fun fact: I love Japanese culture, I am an avid anime watcher and manga reader, and would love to visit the country one day!
 
   <a href="https://www.linkedin.com/in/ian-wanjohi/">
     <img align="left" alt="Ian Wanjohi | Linkedin" width="24px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />
   </a>
-  
-  <a href="mailto:ianwanjohi3@gmail.com">
-    <img align="left" alt="Ian Wanjohi | Gmail" width="26px" src="https://image.flaticon.com/icons/svg/281/281786.svg" />
-  </a>
-
 
 ![Ian's github stats](https://github-readme-stats.vercel.app/api?username=iwanjo&show_icons=true&hide_border=true)
