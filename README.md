@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Ian
+### Hi there👋🏾, I'm Ian
 
-**My name is Ian Wanjohi. I'm a fourth year CS Major at the [African Leadership University](https://www.alueducation.com/) in Rwanda.**
+**I'm a fourth year CS Major at the [African Leadership University](https://www.alueducation.com/) in Rwanda.**
 
 **I am a software developer specializing in integrating UX/UI Design to create sustainable solutions that positively impact people’s lives.**
 
@@ -15,7 +15,6 @@ My Tech Stack:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt = "Flutter"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt = "JavaScript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt = "React"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt = "Node.js"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt = "MySQL"></code>
 
 
@@ -27,5 +26,6 @@ My Tech Stack:
   <a href="https://www.linkedin.com/in/ian-wanjohi/">
     <img align="left" alt="Ian Wanjohi | Linkedin" width="24px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />
   </a>
+  <br />
 
 ![Ian's github stats](https://github-readme-stats.vercel.app/api?username=iwanjo&show_icons=true&hide_border=true)
