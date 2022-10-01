@@ -1,6 +1,6 @@
 ### Hi there👋🏾, I'm Ian
 
-**I'm a fourth year CS Major at the [African Leadership University](https://www.alueducation.com/) in Rwanda.**
+**I'm a Computer Science Graduate from the [African Leadership University](https://www.alueducation.com/) in Rwanda.**
 
 **I am a software developer specializing in integrating UX/UI Design to create sustainable solutions that positively impact people’s lives.**
 
